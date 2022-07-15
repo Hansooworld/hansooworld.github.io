@@ -2,6 +2,6 @@ var store = [{
         "title": "Pre-upload",
         "excerpt":" ","categories": ["paper-rl"],
         "tags": ["paper","rl"],
-        "url": "/paper-rl/test/",
+        "url": "/categories/paper-rl",
         "teaser": null
       }]

@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /paper-rl
+permalink: /categories/paper-rl
 title: "Reinforcement Learning"
 
 author_profile: true

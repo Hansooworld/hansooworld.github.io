@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -10,3 +10,23 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+docs:
+  - title: Paper Review
+    children:
+      - title: "Reinforcement Learning"
+        url: paper-rl/
+        category: "paper-rl"
+      - title: "Uncertainty"
+        url: paper-uncertainty/
+        category: "paper-uncertainty"
+  - title: Computer Settings
+    children:
+      - title: "Ubuntu"
+        url: settings-ubuntu/
+        category: "ubuntu"
+      - title: "Mac"
+        url: settings-mac/
+        category: "mac"
+      - title: "ROS"
+        url: settings-ros/
+        category: "ROS"

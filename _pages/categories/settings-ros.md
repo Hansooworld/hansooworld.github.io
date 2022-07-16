@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /settings-ros
+permalink: /settings-ros/
 title: "ROS"
 
 author_profile: true

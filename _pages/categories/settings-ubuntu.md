@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /settings-ubuntu
+permalink: /settings-ubuntu/
 title: "Ubuntu"
 
 author_profile: true

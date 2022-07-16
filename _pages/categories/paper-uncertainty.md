@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /paper-uncertainty
+permalink: /paper-uncertainty/
 title: "Uncertainty"
 
 author_profile: true

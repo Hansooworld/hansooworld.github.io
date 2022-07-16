@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /settings-mac
+permalink: /settings-mac/
 title: "Mac"
 
 author_profile: true

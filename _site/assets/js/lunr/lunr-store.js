@@ -1,7 +1,7 @@
 var store = [{
         "title": "Pre-upload",
-        "excerpt":" ","categories": ["paper-rl"],
+        "excerpt":"What is it?  ","categories": ["paper-rl"],
         "tags": ["paper","rl"],
-        "url": "/categories/paper-rl",
+        "url": "/paper-rl/test/",
         "teaser": null
       }]

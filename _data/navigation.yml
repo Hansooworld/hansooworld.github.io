@@ -14,7 +14,7 @@ docs:
   - title: Paper Review
     children:
       - title: "Reinforcement Learning"
-        url: categories/paper-rl/
+        url: paper-rl/
         category: "paper-rl"
       - title: "Uncertainty"
         url: paper-uncertainty/

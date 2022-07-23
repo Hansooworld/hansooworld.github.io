@@ -11,6 +11,11 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 docs:
+  - title: Programming
+    children:
+      - title: "Python"
+        url: programming-python/
+        category: "programming-python"
   - title: Paper Review
     children:
       - title: "Reinforcement Learning"
